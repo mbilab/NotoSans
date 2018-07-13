@@ -1,0 +1,19 @@
+{
+  "name": "google-fonts-offline",
+  "version": "1.0.0",
+  "description": "A package to provide the offline fonts from Google Noto Fonts.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbilab/google-fonts-offline.git"
+  },
+  "keywords": [
+    "google-fonts",
+    "offline"
+  ],
+  "author": "mbilab",
+  "license": "All rights reserved",
+  "bugs": {
+    "url": "https://github.com/mbilab/google-fonts-offline/issues"
+  },
+  "homepage": "https://github.com/mbilab/google-fonts-offline#readme"
+}
